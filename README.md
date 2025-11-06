@@ -33,7 +33,7 @@ It helps save plants from drying up due to lack of water as well as saves water 
 ---
 
 ## 💻 Arduino Code
-Code file: [`code/smart_irrigation.ino`](plant_irrigation/plant_irrigation/plant_irrigation.ino)
+Code file: [`plant_irrigation.ino`](plant_irrigation/plant_irrigation/plant_irrigation.ino)
 
 ---
 
