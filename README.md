@@ -53,5 +53,3 @@ Code file: [`code/smart_irrigation.ino`](plant_irrigation/plant_irrigation/plant
 
 ---
 
-## 🪴 License
-MIT License – free to use and modify for learning purposes.
